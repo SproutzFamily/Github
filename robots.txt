@@ -1,0 +1,10 @@
+# robots.txt for Sproutz GitHub backlink page
+User-agent: *
+Allow: /
+
+# Canonical entrypoint
+Sitemap: https://sproutzfamily.github.io/Github/sitemap.xml
+
+# Notes:
+# Deze pagina verwijst enkel naar Sproutz.nl en relevante educatieve speelgoedcollecties.
+# Doel: semantische merkversterking & context.
