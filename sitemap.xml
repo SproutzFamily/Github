@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <!-- Hoofdpagina -->
+  <url>
+    <loc>https://sproutzfamily.github.io/Github/</loc>
+    <lastmod>2025-11-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Gerelateerde Notion backlink -->
+  <url>
+    <loc>https://careful-storm-033.notion.site/Duurzaam-educatief-speelgoed-Spelenderwijs-leren-met-Sproutz-nl-2a011072faf5805793cbd87acb95dc8d</loc>
+    <lastmod>2025-11-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Verwijzingen naar Sproutz.nl (belangrijkste collecties) -->
+  <url><loc>https://sproutz.nl/collections/houten-speelgoed</loc></url>
+  <url><loc>https://sproutz.nl/collections/educatief-speelgoed</loc></url>
+  <url><loc>https://sproutz.nl/collections/montessori-speelgoed</loc></url>
+  <url><loc>https://sproutz.nl/collections/sensorisch-speelgoed</loc></url>
+  <url><loc>https://sproutz.nl/collections/little-dutch</loc></url>
+  <url><loc>https://sproutz.nl/collections/hey-clay-boetseerklei</loc></url>
+  <url><loc>https://sproutz.nl/collections/jollein</loc></url>
+
+</urlset>
